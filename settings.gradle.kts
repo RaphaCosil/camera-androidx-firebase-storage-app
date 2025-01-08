@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CameraTemplate"
+rootProject.name = "Camera-Androidx-Firebase-App"
 include(":app")
  
