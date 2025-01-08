@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cam stg</string>
+    <string name="take_photo">photo</string>
+    <string name="start_capture">firebase</string>
+</resources>
