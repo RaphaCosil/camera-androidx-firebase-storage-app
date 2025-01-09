@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Camera-Androidx-Firebase-App"
+rootProject.name = "camera-androidx-firebase-app"
 include(":app")
  
