@@ -1,4 +1,4 @@
-# Camera-Androidx-Firebase-App
+# Camera-Androidx-&-Firebase-App
 This application is an Android camera template with the following features:
 
 ### Features
