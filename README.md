@@ -10,8 +10,6 @@ This is an Android application template for capturing and uploading images. It i
 - **Firebase Upload:** Upload images to Firebase Storage and generate URLs.
 - **Image Display:** Use Glide to load and display images from Firebase.
 
----
-
 ## Technical Structure
 
 ### CameraManager
@@ -33,8 +31,6 @@ Handles image-related operations in Firebase Storage, including:
 - **Permission Management:** Manages camera and gallery permissions.
 - **Manager Initialization:** Initializes `CameraManager` and `FirebaseStorageManager`.
 
----
-
 ## Permissions
 
 The app requests the following permissions to function properly:
@@ -42,8 +38,6 @@ The app requests the following permissions to function properly:
 - **Camera Access:** Required for capturing photos.
 - **Gallery Access:** Required for selecting images.
 - **Internet Access:** Required for Firebase operations.
-
----
 
 ## How to Use
 
@@ -54,5 +48,3 @@ The app requests the following permissions to function properly:
     - Download the `google-services.json` file and place it in the `app` directory.
     - Add Firebase dependencies to the `build.gradle` files.
 3. Build and run the application.
-
----
