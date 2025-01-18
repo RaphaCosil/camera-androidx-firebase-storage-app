@@ -1,4 +1,4 @@
-# Camera Androidx & Firebase Storage App
+# camera-androidx-firebase-storage-app
 
 This is an Android application template for capturing and uploading images. It includes the following features:
 
